@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "connect <- function(host = \"localhost\", user=\"gpadmin\", dbname = \"gpadmin\", password = \"password\", port = 5432)\n{\ndb.connect(host = host, user = user, dbname = dbname, password = password, port = port)\ncat(\"Don't forget to db.disconnect() when you are done!\")\n}",
+    "created" : 1463933262796.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2792145029",
+    "id" : "F945C1CB",
+    "lastKnownWriteTime" : 1463933286,
+    "last_content_update" : 1463933286213,
+    "path" : "E:/Documents/Egyetem/Szakdolgozat/SQLVis/R/connect.R",
+    "project_path" : "R/connect.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

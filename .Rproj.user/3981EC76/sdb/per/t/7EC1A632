@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: SQLVis\nVersion: 0.2\nTitle: Connect to PostgreSQL datbase and realise diagrams\nDescription: Tools for connecting to PostgreSQL database and draw basic diagrams\n    using ggplot2\nAuthors: person(\"Szabo\", \"Tamas\", role = c(\"aut\", \"cre\"), ,\n    \"r.tamas.szabo@gmail.com\")\nDepends:\n    ggplot2,\n    PivotalR\nLicense: BME\nRoxygenNote: 5.0.1\n",
+    "created" : 1463933500114.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3977957397",
+    "id" : "7EC1A632",
+    "lastKnownWriteTime" : 1463933629,
+    "last_content_update" : 1463933629019,
+    "path" : "E:/Documents/Egyetem/Szakdolgozat/SQLVis/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

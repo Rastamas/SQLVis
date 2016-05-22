@@ -1,0 +1,12 @@
+Package: SQLVis
+Version: 0.2
+Title: Connect to PostgreSQL datbase and realise diagrams
+Description: Tools for connecting to PostgreSQL database and draw basic diagrams
+    using ggplot2
+Authors: person("Szabo", "Tamas", role = c("aut", "cre"), ,
+    "r.tamas.szabo@gmail.com")
+Depends:
+    ggplot2,
+    PivotalR
+License: BME
+RoxygenNote: 5.0.1
